@@ -78,5 +78,5 @@ int main()
 {
     CGPA C;
     C.getinfo();
-    C.show();
+C.show();
 }
